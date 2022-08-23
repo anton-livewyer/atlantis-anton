@@ -1,3 +1,3 @@
-resource "null_resource" "anon" {
+resource "null_resource" "anton" {
 
 }
